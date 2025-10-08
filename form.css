@@ -10,7 +10,7 @@
 }
 
 * {
-  font-family: Sans-serif !important;
+  font-family: inherit;
   font-size: inherit;
   font-weight: inherit;
   line-height: inherit;
@@ -150,7 +150,7 @@
 
 .primary-button {
   position: relative !important;
-  font-family: Sans-serif !important;
+  font-family: inherit !important;
   line-height: initial !important;
   font-weight: 700 !important;
   cursor: pointer !important;
